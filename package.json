@@ -6,7 +6,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.2.0",
-    "node-red-dashboard": "2.16.3",
+    "node-red-dashboard": "2.19.3",
     "nrd_educational": "^1.0.0",
     "mongo-express": "0.53.0",
     "seeftl": "0.1.1"
