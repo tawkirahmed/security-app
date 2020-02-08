@@ -1,0 +1,2 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+coffe-script,0.0.1-security,487461de16e53260788df28c13a79572761e0539,Steven,test-with-a-missing-parameter-on-save-function,2017-10-09T10:17:56+02:00,https://github.com/steven9neuf/ece-nodejs2017,YES

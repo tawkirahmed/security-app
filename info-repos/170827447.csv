@@ -1,0 +1,4 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+csv-parse,^4.3.4,e115aed5a6237ebce5e0ed34619073f15d04ab00,Falta,removed-cron-added-clearing-of-array-before-filling-in-index,2019-03-22T09:21:23+01:00,https://github.com/GrimirCZ/HackatonKhkAPI,YES
+csv-parse,^4.3.4,1e5892c2e539b020f3aa22f4bc8874f73d0d82f7,Vít,added-unemployed,2019-03-21T15:47:44+01:00,https://github.com/GrimirCZ/HackatonKhkAPI,YES
+csv-parse,^4.3.4,0d9d058700a6241f6edbf3b6c87cd42707442a28,Falta,added-cors-func-as-input,2019-03-21T13:13:16+01:00,https://github.com/GrimirCZ/HackatonKhkAPI,YES

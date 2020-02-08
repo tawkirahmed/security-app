@@ -1,0 +1,2 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+moment,^2.20.0,54190b556ea2676504c0fdb58e19a38573c89c02,Wijewantha,Update-factory.js,2017-12-17T17:29:29+05:30,https://github.com/dulichan/ts-rollup,YES

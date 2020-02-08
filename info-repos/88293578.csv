@@ -1,0 +1,12 @@
+lib_name,version,commit_hash,author,commentary,date,link,is_present
+Haraka,^2.8.23,7affe9f88db2523b5a8170b5aaa71d56b75099cd,J.,removed-autopopulate-and-materialized-modules-from-all-models,2018-12-21T00:56:59-08:00,https://github.com/navyvet1125/Cre8rz,YES
+Haraka,^2.8.23,0bbb2d3994904d6bbe7ba526ab8773f47aabd701,Washington,updated-comments-and-portfolios-controllers,2018-12-15T00:15:05-08:00,https://github.com/navyvet1125/Cre8rz,YES
+Haraka,^2.8.23,ef7dc800de775655a69988a16ee5732565cb34b1,Evan,Updated-app.js.-Updated-endorsements-entries-events-index-and-messages-controller.-Updated-header-partial,2018-12-14T21:59:04-08:00,https://github.com/navyvet1125/Cre8rz,YES
+Haraka,^2.8.23,9e258a096ddc6283274a2ada5f59457ccb813973,J.,updated-app.js-to-ES6.-Setup-bluebird-for-models,2018-12-14T18:51:24-08:00,https://github.com/navyvet1125/Cre8rz,YES
+Haraka,^2.8.23,cd9f8fbd9e20966d5af45f679984281c5d21783e,Washington,deleted-package-lock.json,2018-12-14T18:13:39-08:00,https://github.com/navyvet1125/Cre8rz,YES
+Haraka,^2.8.23,2d8d8212453a6a5f5bf167f1c0b97d7c42f4bcf5,Evan,updated-package.json,2018-12-14T18:10:02-08:00,https://github.com/navyvet1125/Cre8rz,YES
+Haraka,^2.8.23,ac64ae04cc7323094d40129300f318964c078f62,J.,updated-config-files-and-some-controllers-to-ES6-syntax,2018-12-14T17:56:17-08:00,https://github.com/navyvet1125/Cre8rz,YES
+Haraka,^2.8.23,fab129df1181988c7510e1d988457d5baac6971b,Washington,began-updating-seed.js-auth_controller-comments_controller-etc-to-ES6,2018-12-14T08:50:25-08:00,https://github.com/navyvet1125/Cre8rz,YES
+Haraka,^2.8.23,6120dba5b595d9fe5b447894e9baf894792aa628,Evan,updated-config-db.js,2018-12-14T05:58:12-08:00,https://github.com/navyvet1125/Cre8rz,YES
+Haraka,^2.8.23,c5c9762a3ab218a4b3040740b2f74135848e8a9f,J.,installed-Haraka,2017-05-13T10:16:55-07:00,https://github.com/navyvet1125/Cre8rz,YES
+Haraka,^2.8.13,42694ad448767cf7a9ded93d74be6f5cd5d45076,Washington,added-nodemailer-to-config-folder,2017-05-12T23:13:48-07:00,https://github.com/navyvet1125/Cre8rz,YES
