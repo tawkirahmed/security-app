@@ -9,8 +9,7 @@
     "node-red-dashboard": "2.16.3",
     "nrd_educational": "^1.0.0",
     "mongo-express": "0.53.0",
-    "seeftl": "0.1.1",
-    "csv-parse": "4.4.6"
+    "seeftl": "0.1.1"
   },
   "devDependencies": {
     "csv-parse": "4.4.5"
