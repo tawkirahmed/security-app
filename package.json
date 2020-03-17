@@ -11,7 +11,8 @@
     "mongo-express": "0.53.0",
     "seeftl": "0.1.1",
     "lodash": "^4.17.11",
-    "csv-parse": "^4.4.0"
+    "csv-parse": "^4.4.0",
+    "typescript": "^3.3.4000"
   },
   "devDependencies": {
     "csv-parse": "4.4.5"
