@@ -10,7 +10,8 @@
     "nrd_educational": "^1.0.0",
     "mongo-express": "0.53.0",
     "seeftl": "0.1.1",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.11",
+    "csv-parse": "^4.4.0"
   },
   "devDependencies": {
     "csv-parse": "4.4.5"
